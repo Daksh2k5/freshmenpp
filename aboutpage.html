@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <script src="https://kit.fontawesome.com/fd28305bd0.js" crossorigin="anonymous"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image" href="/Logofortitle.png">
+    <link rel="stylesheet" href="aboutpage.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Narrow:wght@700&family=Caveat:wght@600&family=EB+Garamond:ital,wght@1,500&family=Fira+Sans+Condensed:wght@500&family=Golos+Text:wght@400;800;900&family=Gruppo&family=IBM+Plex+Sans+Condensed:ital,wght@1,500&family=Montserrat&family=Noto+Sans&family=Nunito+Sans:wght@300;700&family=Oswald:wght@400;500&family=Poltawski+Nowy:wght@500&family=Roboto:ital@0;1&family=Russo+One&family=Sono:wght@500&family=Source+Sans+Pro:wght@700&family=Space+Grotesk:wght@400;700&family=Tilt+Warp&family=Work+Sans:wght@500&display=swap" rel="stylesheet">
+    <title>About | Freshmen++</title>
+</head>
+<body>
+    <header>
+        <!-- -------------------------------------------------------------------Navbar---------------------------------------------- -->
+        <nav>
+          <nav class="navbar bg-body-tertiary">
+            <div class="container-fluid">
+              <a class="navbar-brand" href="index.html">
+                <img src="Logo_Title.png" alt="Logo" width="300" height="60" class="d-inline-block align-text-top">
+              </a>
+              <ul>
+                <li>
+                <a href="index.html">
+                <button type="button">Back</button>
+
+            </a>
+        </li>
+              </ul>
+            </div>
+            <nav>
+              <!-- -----------------------------------------------------------------Navbar(responsive)------------------------------------- -->
+              <div class="navbar-toggle">
+                <i class="fas fa-bars"></i>
+              </div>
+              <ul class="navbar-menu">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="aboutpage.html">About</a></li>
+                <li><a href="Contac.html">Contact</a></li>
+
+              </ul>
+            </nav>
+          </nav>
+        </header>
+    <section>
+        <h1>About</h1>
+        <div class="about">
+            
+            Welcome to <strong><span style="color:#f0ff00">Freshmen++!</span></strong>  
+            <br>
+            <br>
+            This website has been developed using <strong><a href="https://freshmen23.github.io/Freshmen/">Freshmen23</a></strong> as a reference for improvement and inspiration. This is just an effort to enhance and refine the original concept.
+
+            <br>
+            <br>
+            In the source code I noticed that several professors had reviews that could not be searched due to errors in the index. Additionally, I observed that new reviews were not being added to the database. Consequently, I decided to create this website.            <br>
+            <br>
+            I made a new website instead of fixing the original open source project so that I could add my own forms for submitting responses and to avoid interfering with the original project.            
+            <br>
+            <br>
+            This website fixes the search system and the index with reviews, features a dark theme and aims to update the reviews more frequently. You are encouraged to visit freshmen23 for the authentic experience and to support the original creators.
+            <br>
+            <br>
+            If you encounter any problems regarding this website, or if the original creators want me to take this down, feel free to contact me.
+            <br>
+            <br>
+            -Daksh 
+        </div>
+
+    <!-- ---------------------------------------------------------Resposive Navbar Toggle button JS------------------------------- -->
+    <script>
+        const navbarToggle = document.querySelector('.navbar-toggle');
+        const navbarMenu = document.querySelector('.navbar-menu');
+
+        navbarToggle.addEventListener('click', function () {
+          navbarMenu.classList.toggle('show');
+        });
+
+      </script>
+</body>
+</html>
