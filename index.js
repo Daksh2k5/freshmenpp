@@ -131,14 +131,14 @@ const PROFFESSORS = {
     'noOfReviews': '7'
   },
   'Ankit Pal': {
-    'Teaching': '1.67',
-    'Evaluation': '3',
-    'Behaviour': '4',
+    'Teaching': '3.5',
+    'Evaluation': '3.44',
+    'Behaviour': '3.72',
     'Internals': '4',
     'Average': 'Medium',
-    'Overall': 'Average',
-    'Color': 'orange',
-    'noOfReviews': '3'
+    'Overall': 'Good',
+    'Color': 'Green',
+    'noOfReviews': '5'
   },
   'Ankur Beohar': {
     'Teaching': '4',
@@ -191,14 +191,14 @@ const PROFFESSORS = {
     'noOfReviews': '1'
   },
   'Ashok Kumar Baral': {
-    'Teaching': '4',
-    'Evaluation': '4.5',
-    'Behaviour': '5',
-    'Internals': '5',
-    'Average': 'High',
+    'Teaching': '3.33',
+    'Evaluation': '4',
+    'Behaviour': '4',
+    'Internals': '4.33',
+    'Average': 'Medium',
     'Overall': 'Good',
     'Color': 'green',
-    'noOfReviews': '2'
+    'noOfReviews': '3'
   },
   'Atul Aman': {
     'Teaching': '2',
@@ -215,6 +215,16 @@ const PROFFESSORS = {
     'Evaluation': '4',
     'Behaviour': '4',
     'Internals': '4',
+    'Average': 'Medium',
+    'Overall': 'Average',
+    'Color': 'orange',
+    'noOfReviews': '1'
+  },
+  'Azra Nazir': {
+    'Teaching': '3',
+    'Evaluation': '3',
+    'Behaviour': '3',
+    'Internals': '3',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': 'orange',
@@ -253,12 +263,12 @@ const PROFFESSORS = {
   'Chandrama Swain': {
     'Teaching': '4',
     'Evaluation': '4',
-    'Behaviour': '4',
-    'Internals': '3',
+    'Behaviour': '3.33',
+    'Internals': '3.33',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': 'orange',
-    'noOfReviews': '2'
+    'noOfReviews': '3'
   },
   'Deep Chandra Uphadhya': {
     'Teaching': '2',
@@ -309,6 +319,16 @@ const PROFFESSORS = {
     'Overall': 'Good',
     'Color': 'green',
     'noOfReviews': '5'
+  },
+  'Dipanjana Hazra': {
+    'Teaching': '2',
+    'Evaluation': '4',
+    'Behaviour': '3',
+    'Internals': '1',
+    'Average': 'Low',
+    'Overall': 'Average',
+    'Color': 'orange',
+    'noOfReviews': '1'
   },
   'Divya Haridas': {
     'Teaching': '4.5',
@@ -791,24 +811,24 @@ const PROFFESSORS = {
     'noOfReviews': '5'
   },
   'Priyank Nema': {
-    'Teaching': '2',
-    'Evaluation': '3',
-    'Behaviour': '2.5',
-    'Internals': '5',
-    'Average': 'High',
+    'Teaching': '3',
+    'Evaluation': '3.4',
+    'Behaviour': '3',
+    'Internals': '4.6',
+    'Average': 'Medium',
     'Overall': 'Average',
     'Color': 'orange',
-    'noOfReviews': '2'
+    'noOfReviews': '3'
   },
   'Priyanka Roy': {
-    'Teaching': '3.5',
-    'Evaluation': '4.5',
+    'Teaching': '3.33',
+    'Evaluation': '4.67',
     'Behaviour': '5',
     'Internals': '5',
     'Average': 'High',
     'Overall': 'Good',
     'Color': 'green',
-    'noOfReviews': '2'
+    'noOfReviews': '3'
   },
   'Rabia Musheer': {
     'Teaching': '3.2',
@@ -1000,6 +1020,16 @@ const PROFFESSORS = {
     'Color': 'orange',
     'noOfReviews': '1'
   },
+  'Saurabh Mishra': {
+    'Teaching': '4',
+    'Evaluation': '5',
+    'Behaviour': '2',
+    'Internals': '4',
+    'Average': 'High',
+    'Overall': 'Good',
+    'Color': 'green',
+    'noOfReviews': '1'
+  },
   'Sayed Mohammed Zeeshan': {
     'Teaching': '4',
     'Evaluation': '4',
@@ -1071,14 +1101,14 @@ const PROFFESSORS = {
     'noOfReviews': '1'
   },
   'Shweta Singh': {
-    'Teaching': '4',
-    'Evaluation': '4.5',
+    'Teaching': '4.3',
+    'Evaluation': '4.2',
     'Behaviour': '4',
-    'Internals': '4.5',
+    'Internals': '4.67',
     'Average': 'High',
     'Overall': 'Good',
     'Color': 'green',
-    'noOfReviews': '2'
+    'noOfReviews': '3'
   },
   'Siddharth Singh Chouhan': {
     'Teaching': '2.75',
@@ -1437,14 +1467,14 @@ const PROFFESSORS = {
   },
   
   'Santosh Kumar Bhal':{
-    'Teaching': '3/5',
-    'Evaluation': '3/5',
-    'Behaviour': '3/5',
-    'Internals': '4/5',
+    'Teaching': '3',
+    'Evaluation': '3',
+    'Behaviour': '2.5',
+    'Internals': '3.5',
     'Average': 'Medium',
     'Overall': 'Average',
     'Color': 'orange',
-    'noOfReviews': '1'    
+    'noOfReviews': '2'    
 
   },
   'AVR Mayuri': {
@@ -1457,6 +1487,66 @@ const PROFFESSORS = {
     'Color': 'Green',
     'noOfReviews': '2'
   },
+  'Sonal Gupta': {
+    'Teaching': '1',
+    'Evaluation': '2',
+    'Behaviour': '2',
+    'Internals': '2',
+    'Average': 'Medium',
+    'Overall': 'Bad',
+    'Color': '#c30101',
+    'noOfReviews': '1'
+  },
+  'Saurabh Kumar Maurya': {
+    'Teaching': '2',
+    'Evaluation': '1',
+    'Behaviour': '2',
+    'Internals': '2',
+    'Average': 'Low',
+    'Overall': 'Bad',
+    'Color': '#c30101',
+    'noOfReviews': '2'
+  },
+  'Juhi Kesarwani': {
+    'Teaching': '5',
+    'Evaluation': '5',
+    'Behaviour': '5',
+    'Internals': '5',
+    'Average': 'High',
+    'Overall': 'Good',
+    'Color': 'green',
+    'noOfReviews': '1'
+  },
+  'K Sripriyan': {
+    'Teaching': '3',
+    'Evaluation': '3',
+    'Behaviour': '3',
+    'Internals': '2',
+    'Average': 'Low',
+    'Overall': 'Medium',
+    'Color': 'orange',
+    'noOfReviews': '1'
+  },
+  'Prashant G K': {
+    'Teaching': '2',
+    'Evaluation': '4',
+    'Behaviour': '2',
+    'Internals': '3',
+    'Average': 'High',
+    'Overall': 'Bad',
+    'Color': '#c30101',
+    'noOfReviews': '1'
+  },
+  'S Balaguru': {
+    'Teaching': '5',
+    'Evaluation': '4',
+    'Behaviour': '4',
+    'Internals': '4',
+    'Average': 'High',
+    'Overall': 'Good',
+    'Color': 'green',
+    'noOfReviews': '1'
+  },
   'Vijay Kumar Patidar': {
     'Teaching': '0',
     'Evaluation': '0',
@@ -1467,6 +1557,7 @@ const PROFFESSORS = {
     'Color': 'purple',
     'noOfReviews': '0'
   },
+  
   '0': {
     'Teaching': '0',
     'Evaluation': '0',
