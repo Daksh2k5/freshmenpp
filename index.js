@@ -70,7 +70,7 @@ const PROFFESSORS = {
     'Color': 'green',
     'noOfReviews': '1'
   },
-  'Amit Thakur ': {
+  'Amit Thakur': {
     'Teaching': '3.75',
     'Evaluation': '3.25',
     'Behaviour': '3.75',
@@ -157,7 +157,7 @@ const PROFFESSORS = {
     'Internals': '2.5',
     'Average': 'Medium',
     'Overall': 'Bad',
-    'Color': 'purple',
+    'Color': 'red',
     'noOfReviews': '2'
   },
   'Arindam Sadhukhan': {
@@ -340,7 +340,7 @@ const PROFFESSORS = {
     'Color': 'green',
     'noOfReviews': '6'
   },
-  'Divya Thakur ': {
+  'Divya Thakur': {
     'Teaching': '3',
     'Evaluation': '5',
     'Behaviour': '5',
@@ -740,7 +740,7 @@ const PROFFESSORS = {
     'Color': 'green',
     'noOfReviews': '2'
   },
-  'PR Bhuvaneshwari': {
+  'PR Buvaneswari': {
     'Teaching': '4',
     'Evaluation': '4',
     'Behaviour': '4',
@@ -1420,7 +1420,7 @@ const PROFFESSORS = {
     'Internals': '4/5',
     'Average': 'Medium',
     'Overall': 'Average',
-    'Color': '#orange',
+    'Color': 'orange',
     'noOfReviews': '2'
   },
   'Uday Kumar':{
@@ -1444,7 +1444,7 @@ const PROFFESSORS = {
     'noOfReviews': '1'
   },
   
-  'Deepankar Sutradhar':{
+  'Dipankar Sutradhar':{
     'Teaching': '3/5',
     'Evaluation': '5/5',
     'Behaviour': '4.5/5',
@@ -1557,7 +1557,17 @@ const PROFFESSORS = {
     'Color': 'purple',
     'noOfReviews': '0'
   },
-  
+  'Ajay Kumar Bhurjee': {
+    'Teaching': '0',
+    'Evaluation': '0',
+    'Behaviour': '0',
+    'Internals': '0',
+    'Average': 'WIP',
+    'Overall': 'need more reviews',
+    'Color': 'purple',
+    'noOfReviews': '0'
+  },
+
   '0': {
     'Teaching': '0',
     'Evaluation': '0',
