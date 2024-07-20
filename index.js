@@ -501,14 +501,14 @@ const PROFFESSORS = {
     'noOfReviews': '4'
   },
   'L Sathish Kumar': {
-    'Teaching': '2',
-    'Evaluation': '2.33',
-    'Behaviour': '2',
-    'Internals': '2.66',
+    'Teaching': '2.0',
+    'Evaluation': '2.7475',
+    'Behaviour': '1.75',
+    'Internals': '2.745',
     'Average': 'Medium',
     'Overall': 'Bad',
-    'Color': '#c30101',
-    'noOfReviews': '3'
+    'color': 'red',
+    'noOfReviews': '4',
   },
   'Lokesh Malviya': {
     'Teaching': '1.66',
@@ -741,14 +741,14 @@ const PROFFESSORS = {
     'noOfReviews': '2'
   },
   'PR Buvaneswari': {
-    'Teaching': '4',
-    'Evaluation': '4',
-    'Behaviour': '4',
-    'Internals': '3',
+    'Teaching': '4.0',
+    'Evaluation': '4.5',
+    'Behaviour': '3.5',
+    'Internals': '3.0',
     'Average': 'Medium',
-    'Overall': 'Average',
-    'Color': 'orange',
-    'noOfReviews': '1'
+    'Overall': 'Good',
+    'color': 'green',
+    'noOfReviews': '2',
   },
   'Prabhu M': {
     'Teaching': '4',
@@ -1021,14 +1021,14 @@ const PROFFESSORS = {
     'noOfReviews': '1'
   },
   'Saurabh Mishra': {
-    'Teaching': '4',
-    'Evaluation': '5',
-    'Behaviour': '2',
-    'Internals': '4',
+    'Teaching': '4.0',
+    'Evaluation': '4.0',
+    'Behaviour': '2.5',
+    'Internals': '4.0',
     'Average': 'High',
     'Overall': 'Good',
-    'Color': 'green',
-    'noOfReviews': '1'
+    'color': 'green',
+    'noOfReviews': '2',
   },
   'Sayed Mohammed Zeeshan': {
     'Teaching': '4',
@@ -1566,6 +1566,46 @@ const PROFFESSORS = {
     'Overall': 'need more reviews',
     'Color': 'purple',
     'noOfReviews': '0'
+  },
+  'Adarsh Patel': {
+    'Teaching': '4',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '5',
+    'Average': 'High',
+    'Overall': 'Good',
+    'color': 'green',
+    'noOfReviews': '1',
+  },
+  'Ashish Kumar Kesarwany': {
+    'Teaching': '3',
+    'Evaluation': '2',
+    'Behaviour': '4',
+    'Internals': '1',
+    'Average': 'Medium',
+    'Overall': 'Bad',
+    'color': 'red',
+    'noOfReviews': '1',
+  },
+  'Bhakti Parashar': {
+    'Teaching': '5',
+    'Evaluation': '3',
+    'Behaviour': '5',
+    'Internals': '4',
+    'Average': 'Medium',
+    'Overall': 'Good',
+    'color': 'green',
+    'noOfReviews': '1',
+  },
+  'Tauseef Qamar': {
+    'Teaching': '4',
+    'Evaluation': '4',
+    'Behaviour': '5',
+    'Internals': '4',
+    'Average': 'Medium',
+    'Overall': 'Good',
+    'color': 'green',
+    'noOfReviews': '1',
   },
 
   '0': {
