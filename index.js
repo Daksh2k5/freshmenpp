@@ -507,7 +507,7 @@ const PROFFESSORS = {
     'Internals': '2.745',
     'Average': 'Medium',
     'Overall': 'Bad',
-    'color': 'red',
+    'Color': 'red',
     'noOfReviews': '4',
   },
   'Lokesh Malviya': {
@@ -747,7 +747,7 @@ const PROFFESSORS = {
     'Internals': '3.0',
     'Average': 'Medium',
     'Overall': 'Good',
-    'color': 'green',
+    'Color': 'green',
     'noOfReviews': '2',
   },
   'Prabhu M': {
@@ -1574,7 +1574,7 @@ const PROFFESSORS = {
     'Internals': '5',
     'Average': 'High',
     'Overall': 'Good',
-    'color': 'green',
+    'Color': 'green',
     'noOfReviews': '1',
   },
   'Ashish Kumar Kesarwany': {
@@ -1584,7 +1584,7 @@ const PROFFESSORS = {
     'Internals': '1',
     'Average': 'Medium',
     'Overall': 'Bad',
-    'color': 'red',
+    'Color': 'red',
     'noOfReviews': '1',
   },
   'Bhakti Parashar': {
@@ -1594,7 +1594,7 @@ const PROFFESSORS = {
     'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
-    'color': 'green',
+    'Color': 'green',
     'noOfReviews': '1',
   },
   'Tauseef Qamar': {
@@ -1604,7 +1604,7 @@ const PROFFESSORS = {
     'Internals': '4',
     'Average': 'Medium',
     'Overall': 'Good',
-    'color': 'green',
+    'Color': 'green',
     'noOfReviews': '1',
   },
 
